@@ -1,0 +1,31 @@
+body{
+    background: #d3d3d3;
+
+}
+.slider-nav{
+    height: 220px;
+    width: 600px;
+    margin: 10px auto;
+}  
+.slider-nav div{
+
+} 
+.slider-nav{  
+
+}
+
+.slider-for{ 
+    /*height: 600px;*/
+    width: 800px;
+    margin: 10px auto;
+    overflow: auto;
+       
+}
+
+
+.slick-slide {
+    width: 250px;
+    margin: 7px;
+    
+    
+}

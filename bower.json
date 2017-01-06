@@ -1,0 +1,17 @@
+{
+  "name": "test-php",
+  "authors": [
+    "Dima Bruk"
+  ],
+  "description": "",
+  "main": "index.php",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
